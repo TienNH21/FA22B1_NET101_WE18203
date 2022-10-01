@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.exe
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.deps.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\bin\Debug\netcoreapp3.1\Lesson7_OOP_1.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson7_OOP_1\obj\Debug\netcoreapp3.1\Lesson7_OOP_1.genruntimeconfig.cache

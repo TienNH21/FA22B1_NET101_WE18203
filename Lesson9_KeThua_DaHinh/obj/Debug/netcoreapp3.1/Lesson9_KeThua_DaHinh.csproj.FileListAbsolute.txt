@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.exe
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.deps.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\bin\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson9_KeThua_DaHinh\obj\Debug\netcoreapp3.1\Lesson9_KeThua_DaHinh.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.exe
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.deps.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\bin\Debug\netcoreapp3.1\Lesson6_Mang.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson6_Mang\obj\Debug\netcoreapp3.1\Lesson6_Mang.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.exe
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.deps.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\bin\Debug\netcoreapp3.1\Lesson5_Loop.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.dll
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.pdb
+C:\Users\ADMIN\source\repos\WE18204\Lesson5_Loop\obj\Debug\netcoreapp3.1\Lesson5_Loop.genruntimeconfig.cache
