@@ -12,3 +12,17 @@ C:\Users\ADMIN\source\repos\WE18204\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson
 C:\Users\ADMIN\source\repos\WE18204\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.dll
 C:\Users\ADMIN\source\repos\WE18204\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.pdb
 C:\Users\ADMIN\source\repos\WE18204\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.exe
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.deps.json
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.dll
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\bin\Debug\netcoreapp3.1\Lesson11_Lab5.pdb
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.dll
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.pdb
+C:\Users\ADMIN\source\repos\WE18204\we18203\Lesson11_Lab5\obj\Debug\netcoreapp3.1\Lesson11_Lab5.genruntimeconfig.cache

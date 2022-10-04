@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson4_Condition\\Lesson4_Condition.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson4_Condition\\Lesson4_Condition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson4_Condition\\Lesson4_Condition.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson4_Condition\\Lesson4_Condition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson4_Condition\\Lesson4_Condition.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson4_Condition\\Lesson4_Condition.csproj",
         "projectName": "Lesson4_Condition",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson4_Condition\\Lesson4_Condition.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson4_Condition\\Lesson4_Condition.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson4_Condition\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson4_Condition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -28,12 +28,15 @@ namespace Lesson11_Lab5
                 {
                     case 1:
                         Console.WriteLine("Nhap danh sach sinh vien");
+                        service.themDSSV();
                         break;
                     case 2:
                         Console.WriteLine("Xuat thong tin danh sach sinh vien");
+                        service.xuatDSSV();
                         break;
                     case 3:
                         Console.WriteLine("Xuat danh sach sinh vien co hoc luc gioi");
+                        service.xuatDSSVGioi();
                         break;
                     case 4:
                         Console.WriteLine("Sap xep danh sach sinh vien theo diem");

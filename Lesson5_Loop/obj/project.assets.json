@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson5_Loop\\Lesson5_Loop.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson5_Loop\\Lesson5_Loop.csproj",
       "projectName": "Lesson5_Loop",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson5_Loop\\Lesson5_Loop.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson5_Loop\\Lesson5_Loop.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\Lesson5_Loop\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WE18204\\we18203\\Lesson5_Loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
